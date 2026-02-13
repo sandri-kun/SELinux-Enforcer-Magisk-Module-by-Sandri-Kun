@@ -18,9 +18,13 @@ This module is a strictly designed tool to **Fix SELinux Flag is Enabled** issue
 ## 💖 Support This Project
 If you find this module helpful, consider making a donation to support future development:
 
-| Network | Wallet Address |
-|---------|----------------|
-| **BSC / BEP20** | `0xbe6f4b04dbcd42b47e75c4fd7f208fb3062c86f5` |
+| Network | Standard Token | Wallet Address | Token Example |
+|---------|----------------|----------------|----------------|
+| **BNB Smart Chain**| **BEP-20** | `0xbe6f4b04dbcd42b47e75c4fd7f208fb3062c86f5` | **USDT, USDC, BTC, BNB, LINK**|
+| **Etherium**| **ETH** | `0xbe6f4b04dbcd42b47e75c4fd7f208fb3062c86f5` | **USDT, USDC, BTC, BNB, LINK**|
+| **TRON**| **TRC-20** | `TNBxUZrwwRcqoiXBNErDAdxG2EWErqsFAp` | **USDT, USDC, BTC, BNB, LINK**|
+| **Solana**| **SOL** | `5hZAXGo9uT6gi8MN8fbSz3swgKrmNupsHrqf98wTDCQc` | **USDT, USDC, BTC, BNB, LINK**|
+| **Plasma**| **PLASMA** | `0xbe6f4b04dbcd42b47e75c4fd7f208fb3062c86f5` | **USDT, USDC, BTC, BNB, LINK**|
 
 Your support is greatly appreciated! 🙏
 
