@@ -26,6 +26,10 @@ If you find this module helpful, consider making a donation to support future de
 | **Solana**| **SOL** | `5hZAXGo9uT6gi8MN8fbSz3swgKrmNupsHrqf98wTDCQc` | **USDT, USDC, BTC, BNB, LINK**|
 | **Plasma**| **PLASMA** | `0xbe6f4b04dbcd42b47e75c4fd7f208fb3062c86f5` | **USDT, USDC, BTC, BNB, LINK**|
 
+### 💳 PayPal Donation
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?logo=paypal&logoColor=white)](https://paypal.me/GymkhanaAan)  
+🔗 Direct link: https://paypal.me/GymkhanaAan
+
 Your support is greatly appreciated! 🙏
 
 ## 🏷️ Tags / Keywords
