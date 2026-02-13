@@ -15,12 +15,28 @@ This module is a strictly designed tool to **Fix SELinux Flag is Enabled** issue
 * **Banking Apps:** Bypasses basic root detection caused by permissive SELinux or leftover storage folders.
 * **Games:** Anti-cheat engines that scan for `TWRP` folders or `Magisk` remnants.
 
+## 📝 How it Works
+Upon boot, the script waits for the system to initialize, then:
+1.  Checks current SELinux status.
+2.  Forces **Enforcing** mode.
+3.  Injects safe system props (`ro.boot.selinux`, `ro.debuggable`).
+4.  Silently removes directory paths: `/sdcard/TWRP`, `/sdcard/Fox`, `/sdcard/Magisk`.
+
 ## 💖 Support This Project
 If you find this module helpful, consider making a donation to support future development:
 
-| Network | Wallet Address |
-|---------|----------------|
-| **BSC / BEP20** | `0xbe6f4b04dbcd42b47e75c4fd7f208fb3062c86f5` |
+&lt;div align="center"&gt;
+
+**BSC / BEP20**
+0xbe6f4b04dbcd42b47e75c4fd7f208fb3062c86f5
+
+<button onclick="navigator.clipboard.writeText('0xbe6f4b04dbcd42b47e75c4fd7f208fb3062c86f5');this.innerHTML='✅ Copied!';setTimeout(()=>this.innerHTML='📋 Copy Address',2000)" style="background:#238636;color:white;border:none;padding:8px 16px;border-radius:6px;cursor:pointer;font-family:system-ui;">
+📋 Copy Address
+</button>
+
+</div>
+
+<br>
 
 Your support is greatly appreciated! 🙏
 
