@@ -1,0 +1,7 @@
+id=selinux_enforcer
+name=SELinux Enforcer by Sandri Kun
+version=v1.0
+versionCode=1
+author=Sandri-Kun
+description=Fixes [✔ SELinux Flag is Enabled, ✔ TWRP, ✔ FOX] detection on Rootbeer, Applist Detector and banking apps.
+updateJson=https://raw.githubusercontent.com/username/repo/main/update.json
