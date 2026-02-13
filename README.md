@@ -18,6 +18,10 @@ This module is a strictly designed tool to **Fix SELinux Flag is Enabled** issue
 ## 💖 Support This Project
 If you find this module helpful, consider making a donation to support future development:
 
+### 💳 PayPal Donation
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?logo=paypal&logoColor=white)](https://paypal.me/GymkhanaAan)  
+🔗 Direct link: https://paypal.me/GymkhanaAan
+
 ### Crypto Donation
 
 | Network | Standard Token | Wallet Address | Token Example |
@@ -27,10 +31,6 @@ If you find this module helpful, consider making a donation to support future de
 | **Plasma**| **PLASMA** | `0xbe6f4b04dbcd42b47e75c4fd7f208fb3062c86f5` | **USDT, USDC, BTC, BNB, LINK**|
 | **TRON**| **TRC-20** | `TNBxUZrwwRcqoiXBNErDAdxG2EWErqsFAp` | **USDT, USDC, BTC, BNB, LINK**|
 | **Solana**| **SOL** | `5hZAXGo9uT6gi8MN8fbSz3swgKrmNupsHrqf98wTDCQc` | **USDT, USDC, BTC, BNB, LINK**|
-
-### 💳 PayPal Donation
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?logo=paypal&logoColor=white)](https://paypal.me/GymkhanaAan)  
-🔗 Direct link: https://paypal.me/GymkhanaAan
 
 Your support is greatly appreciated! 🙏
 
