@@ -22,5 +22,14 @@ Upon boot, the script waits for the system to initialize, then:
 3.  Injects safe system props (`ro.boot.selinux`, `ro.debuggable`).
 4.  Silently removes directory paths: `/sdcard/TWRP`, `/sdcard/Fox`, `/sdcard/Magisk`.
 
+═══════════════════════════════════════════════════
+  💰 DONATION ADDRESS (BSC/BEP20)
+═══════════════════════════════════════════════════
+
+Wallet: 0xbe6f4b04dbcd42b47e75c4fd7f208fb3062c86f5
+
+Network: BNB Smart Chain (BEP20)
+Token Support: BNB, BUSD, USDT (BEP20), and other BEP20 tokens
+
 ## 🏷️ Tags / Keywords
 SELinux Enforcing, Hide Root, Magisk Hide, Rootbeer Fresh Pass, Fix SELinux Flag, Bypass Banking App, Remove TWRP Folder, Delete Magisk Folder, Anti-Detection, Zygisk, Shamiko Alternative, Play Integrity Fix, Hide Developer Options, LSPosed Cleaner.
