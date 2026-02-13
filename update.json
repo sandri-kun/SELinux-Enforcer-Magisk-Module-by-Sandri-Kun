@@ -1,6 +1,6 @@
 {
   "version": "v2",
   "versionCode": 3,
-  "zipUrl": "https://github.com/sandri-kun/SELinux-Enforcer-Magisk-Module-by-Sandri-Kun/releases/download/v2.0/SELinux_Enforcer_by_SandriKun_MagiskModule_release_v2.0.zip",
-  "changelog": "https://raw.githubusercontent.com/sandri-kun/SELinux-Enforcer-Magisk-Module-by-Sandri-Kun/refs/heads/main/changelog.md"
+  "changelog": "https://raw.githubusercontent.com/sandri-kun/SELinux-Enforcer-Magisk-Module-by-Sandri-Kun/refs/heads/main/changelog.md",
+  "zipUrl": "https://github.com/sandri-kun/SELinux-Enforcer-Magisk-Module-by-Sandri-Kun/releases/download/v2.0/SELinux_Enforcer_by_SandriKun_MagiskModule_release_v2.0.zip"
 }
