@@ -1,7 +1,4 @@
-# SELinux-Enforcer-Magisk-Module-by-Sandri-Kun
-Fix SELinux Flag enabled in RootbeerFresh. Force Enforcing status, spoof ro.build.selinux, and clean TWRP/Magisk/Fox folders to bypass banking app detection.
-
-# SELinux Enforcer & Trace Cleaner (Magisk Module)
+# SELinux Enforcer & Trace Cleaner (Magisk Module) by SAndri Kun
 
 ## 🚀 Description
 This module is a strictly designed tool to **Fix SELinux Flag is Enabled** issues detected by security apps like **Rootbeer Fresh**, **Momo**, and various Banking Apps. It ensures your device appears as "Official" and secure by forcing SELinux Enforcing mode and wiping common root traces from your internal storage.
